@@ -1,7 +1,7 @@
-svg {
+@import 'https://fonts.googleapis.com/css?family=Abhaya+Libre';
+body {
   background: green;
 }
-@import 'https://fonts.googleapis.com/css?family=Abhaya+Libre';
-svg {
-  font-family: Abhaya Libre;
+p {
+  font-family: Abhaya Libre; color: blue;
 }
